@@ -1,0 +1,90 @@
+{
+  
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "id": "GITHUB/manifest.json",
+  "type": "Manifest",
+  "label": {
+    "en": ["Vat.gr.14 <inf.1-2> | 65r-72v, 81r-152v <inf. 2>\nParacletices fragmenta"]
+  },
+  "metadata": [
+    {
+      "label": {
+        "en": [""]
+      },
+      "value": {
+        "en": [""]
+      }
+    }
+  ],
+  "summary": {
+    "en": ["The manuscript contains a rich collection of commentaries on Dionysius Thrax’s grammar handbook and a few short additional texts.
+    The manuscript was copied in the 13th century entirely on recycled folios deriving from two lost liturgical codices.
+    One of them was a Menaeum from the 10th century. The complete set of the Menaeum consisted of twelve volumes.
+    This work played an important role in the Orthodox Liturgy because it included the propers, i.e. the sections of the liturgy that vary according to the date and that are independent from the Easter cycles.
+    The other codex dates from the 11th century and contains paracletic canons, collection of hymns to the Mother of God.
+    In the 17th century the list of contents was added in the front of the volume (f. br-v)."]
+  },
+  "rights": "Images Copyright Biblioteca Apostolica Vaticana",
+  "items": [
+    {
+      "id": "GITHUB/canvas/p1",
+      "type": "Canvas",
+      "height": 7310,
+      "width": 5535,
+      "label": {
+        "en": ["66v-67r"]
+      },
+      "items": [
+        {
+          "id": "GITHUB/annotationpage/p1/1",
+          "type": "AnnotationPage"
+          "items": [
+            {
+            "id": "GITHUB/annotation/1",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://digi.vatlib.it/pub/digit/MSS_Vat.gr.14/iiif/Vat.gr.14_0143_fa_0066v-67r.jp2",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 7310,
+                "width": 5535,
+                "label": {
+                  "en": ["66v-67. full colour"]
+                  }
+                "service": [
+                  {
+                    "id": "https://digi.vatlib.it/iiif/MSS_Vat.gr.14/res/img0143",
+                    "type": "ImageService3",
+                    "profile": "level1"
+                  }
+                ]
+              },
+        {
+        "id": "https://digi.vatlib.it/pub/digit/MSS_Vat.gr.14/iiif/Vat.gr.14_0144_fa_0066v-67r.%5B02.wl.0000%5D.jp2",
+          "type": "AnnotationPage"
+          "label": {
+            "en": [
+              "66v-67r. [02.wl.0000] UV fluorescence"
+                ]
+              },
+          "width" : 7310,
+          "height" : 5535,
+          }
+        {
+        "id": "https://digi.vatlib.it/pub/digit/MSS_Vat.gr.14/iiif/Vat.gr.14_0145_fa_0067r.%5B02.wl.a000%5D.jp2",
+          "type": "AnnotationPage"
+          "label": {
+            "en": [
+              "67r. [02.wl.0000] UV fluorescence"
+                ]
+              },
+          "width" : 3842,
+          "height" : 5292,
+          }
+    "target": "https://iiif.io/api/cookbook/recipe/0036-composition-from-multiple-images/canvas/p1#xywh=3949,994,1091,1232"
+            }
+    ]
+        }
+      ]
+    }
