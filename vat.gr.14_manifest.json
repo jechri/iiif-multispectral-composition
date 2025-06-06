@@ -47,7 +47,7 @@
                   }
                 ]
               },
-              "target": "https://jechri.github.io/iiif-multispectral-composition/canvas/p1#xywh=0,0,5535,7310"
+              "target": "https://jechri.github.io/iiif-multispectral-composition/canvas/p1#xywh=0,0,5535,3842"
             },
             {
               "id": "https://jechri.github.io/iiif-multispectral-composition/annotation/p0002-image",
@@ -71,7 +71,7 @@
                   }
                 ]
               },
-              "target": "https://jechri.github.io/iiif-multispectral-composition/canvas/p1#xywh=0,0,5535,7310"
+              "target": "https://jechri.github.io/iiif-multispectral-composition/canvas/p1#xywh=0,0,5535,3842"
             },
             {
               "id": "https://jechri.github.io/iiif-multispectral-composition/annotation/p0003-image",
