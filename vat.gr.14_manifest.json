@@ -87,7 +87,7 @@
               "width": 5292,
               "label": {
                   "en": ["67r. [02.wl.a000] UV fluorescence"]
-                  }
+                  },
             "service": [
               {
               "@context": "http://iiif.io/api/image/2/context.json",
