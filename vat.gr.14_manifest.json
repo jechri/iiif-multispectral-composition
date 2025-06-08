@@ -4,7 +4,7 @@
   "@type": "sc:Manifest",
   "label": "Vat.gr.14 \u003cinf.1-2\u003e | 65r-72v, 81r-152v \u003cinf. 2\u003e, Paracletices fragmenta"
   "description": "The manuscript contains a rich collection of commentaries on Dionysius Thrax’s grammar handbook and a few short additional texts. The manuscript was copied in the 13th century entirely on recycled folios deriving from two lost liturgical codices. One of them was a Menaeum from the 10th century. The complete set of the Menaeum consisted of twelve volumes. This work played an important role in the Orthodox Liturgy because it included the propers, i.e. the sections of the liturgy that vary according to the date and that are independent from the Easter cycles. The other codex dates from the 11th century and contains paracletic canons, collection of hymns to the Mother of God. In the 17th century the list of contents was added in the front of the volume (f. br-v).",
-  "attribution": "© Biblioteca Apostolica Vaticana. For personal, educational, and non-commercial use only.",
+  "attribution": "Copyright Biblioteca Apostolica Vaticana. For personal, educational, and non-commercial use only.",
    "sequences": [
     {
       "@type": "sc:Sequence",
