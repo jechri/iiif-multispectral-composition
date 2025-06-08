@@ -1,5 +1,5 @@
 {
-  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "@context": "http://iiif.io/api/presentation/2/context.json",
   "id": "https://jechri.github.io/iiif-multispectral-composition/vat.gr.14_manifest.json",
   "type": "Manifest",
   "label": {
@@ -38,14 +38,13 @@
                 "label": {
                   "en": ["66v-67r. full colour"]
                 },
-                "service": [
+                "service":
                   {
                     "@context": "http://iiif.io/api/image/2/context.json",
                     "@id": "https://digi.vatlib.it/pub/digit/MSS_Vat.gr.14/iiif/Vat.gr.14_0143_fa_0066v-67r.jp2",
                     "type": "ImageService2",
                     "profile": "http://iiif.io/api/image/2/level2.json"
                   }
-                ]
               },
               "target": "https://jechri.github.io/iiif-multispectral-composition/canvas/p1"
             },
@@ -62,14 +61,13 @@
                 "label": {
                   "en": ["66v-67r. [02.wl.0000] UV fluorescence"]
                 },
-                "service": [
+                "service":
                   {
                     "@context": "http://iiif.io/api/image/2/context.json",
                     "@id": "https://digi.vatlib.it/pub/digit/MSS_Vat.gr.14/iiif/Vat.gr.14_0144_fa_0066v-67r.%5B02.wl.0000%5D.jp2",
                     "type": "ImageService2",
                     "profile": "http://iiif.io/api/image/2/level2.json"
                   }
-                ]
               },
               "target": "https://jechri.github.io/iiif-multispectral-composition/canvas/p1"
             },
@@ -86,14 +84,13 @@
                 "label": {
                   "en": ["67r. [02.wl.a000] UV fluorescence"]
                 },
-                "service": [
+                "service":
                   {
                     "@context": "http://iiif.io/api/image/2/context.json",
                     "@id": "https://digi.vatlib.it/iiifimage/MSS_Vat.gr.14/Vat.gr.14_0145_fa_0067r.%5B02.wl.a000%5D.jp2",
                     "type": "ImageService2",
                     "profile": "http://iiif.io/api/image/2/level2.json"
                   }
-                ]
               },
               "target": "https://jechri.github.io/iiif-multispectral-composition/canvas/p1"
             }
