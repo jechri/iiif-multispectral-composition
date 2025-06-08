@@ -1,66 +1,53 @@
 {
   "@context": "http://iiif.io/api/presentation/2/context.json",
-  "id": "https://jechri.github.io/iiif-multispectral-composition/vat.gr.14_manifest.json",
-  "type": "Manifest",
-  "label": {
-    "en": ["Vat.gr.14 <inf.1-2> | 65r-72v, 81r-152v <inf. 2>, Paracletices fragmenta"]
-  },
-  "summary": {
-    "en": [
-      "The manuscript contains a rich collection of commentaries on Dionysius Thrax’s grammar handbook and a few short additional texts. The manuscript was copied in the 13th century entirely on recycled folios deriving from two lost liturgical codices. One of them was a Menaeum from the 10th century. The complete set of the Menaeum consisted of twelve volumes. This work played an important role in the Orthodox Liturgy because it included the propers, i.e. the sections of the liturgy that vary according to the date and that are independent from the Easter cycles. The other codex dates from the 11th century and contains paracletic canons, collection of hymns to the Mother of God. In the 17th century the list of contents was added in the front of the volume (f. br-v)."
-    ]
-  },
-  "rights": "© Biblioteca Apostolica Vaticana. For personal, educational, and non-commercial use only.",
-  "items": [
+  "@id": "https://jechri.github.io/iiif-multispectral-composition/vat.gr.14_manifest.json",
+  "@type": "sc:Manifest",
+  "label": "Vat.gr.14 <inf.1-2> | 65r-72v, 81r-152v <inf. 2>, Paracletices fragmenta"
+  "description": "The manuscript contains a rich collection of commentaries on Dionysius Thrax’s grammar handbook and a few short additional texts. The manuscript was copied in the 13th century entirely on recycled folios deriving from two lost liturgical codices. One of them was a Menaeum from the 10th century. The complete set of the Menaeum consisted of twelve volumes. This work played an important role in the Orthodox Liturgy because it included the propers, i.e. the sections of the liturgy that vary according to the date and that are independent from the Easter cycles. The other codex dates from the 11th century and contains paracletic canons, collection of hymns to the Mother of God. In the 17th century the list of contents was added in the front of the volume (f. br-v).",
+  "attribution": "© Biblioteca Apostolica Vaticana. For personal, educational, and non-commercial use only.",
+   "sequences": [
     {
-      "id": "https://jechri.github.io/iiif-multispectral-composition/canvas/p1",
-      "type": "Canvas",
-      "height": 7310,
-      "width": 5535,
-      "label": {
-        "en": ["66v-67r."]
-      },
-      "items": [
-        {
-          "id": "https://jechri.github.io/iiif-multispectral-composition/page/p1/1",
-          "type": "AnnotationPage",
-          "items": [
+      "@type": "sc:Sequence",
+      "@id": "https://jechri.github.io/iiif-multispectral-composition/sequence/normal",
+      "canvases": [
+        {"@id": "https://jechri.github.io/iiif-multispectral-composition/canvas/p1",
+          "@type": "sc:Canvas",
+          "label": "66v-67r.",
+          "height": 7310,
+          "width": 5535,
+          "images": [
             {
-              "id": "https://jechri.github.io/iiif-multispectral-composition/annotation/p0001-image",
-              "type": "Annotation",
-              "motivation": "painting",
-              "body": {
-                "id": "https://digi.vatlib.it/pub/digit/MSS_Vat.gr.14/iiif/Vat.gr.14_0143_fa_0066v-67r.jp2",
-                "type": "Image",
+              "@id": "https://jechri.github.io/iiif-multispectral-composition/annotation/p0001-image",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "label": "66v-67r. full colour",
+                "@id": "https://digi.vatlib.it/pub/digit/MSS_Vat.gr.14/iiif/Vat.gr.14_0143_fa_0066v-67r.jp2",
+                "@type": "Image",
                 "format": "image/jp2",
                 "height": 7310,
                 "width": 5535,
-                "label": {
-                  "en": ["66v-67r. full colour"]
-                },
                 "service":
                   {
                     "@context": "http://iiif.io/api/image/2/context.json",
                     "@id": "https://digi.vatlib.it/pub/digit/MSS_Vat.gr.14/iiif/Vat.gr.14_0143_fa_0066v-67r.jp2",
                     "type": "ImageService2",
                     "profile": "http://iiif.io/api/image/2/level2.json"
-                  }
+                  },
               },
-              "target": "https://jechri.github.io/iiif-multispectral-composition/canvas/p1"
+              "on": "https://jechri.github.io/iiif-multispectral-composition/canvas/p1"
             },
             {
-              "id": "https://jechri.github.io/iiif-multispectral-composition/annotation/p0002-image",
-              "type": "Annotation",
-              "motivation": "painting",
-              "body": {
-                "id": "https://digi.vatlib.it/pub/digit/MSS_Vat.gr.14/iiif/Vat.gr.14_0144_fa_0066v-67r.%5B02.wl.0000%5D.jp2",
-                "type": "Image",
+              "@id": "https://jechri.github.io/iiif-multispectral-composition/annotation/p0002-image",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+               "label": "66v-67r. [02.wl.0000] UV fluorescence",
+                "@id": "https://digi.vatlib.it/pub/digit/MSS_Vat.gr.14/iiif/Vat.gr.14_0144_fa_0066v-67r.%5B02.wl.0000%5D.jp2",
+                "@type": "Image",
                 "format": "image/jp2",
                 "height": 7310,
                 "width": 5535,
-                "label": {
-                  "en": ["66v-67r. [02.wl.0000] UV fluorescence"]
-                },
                 "service":
                   {
                     "@context": "http://iiif.io/api/image/2/context.json",
@@ -69,21 +56,19 @@
                     "profile": "http://iiif.io/api/image/2/level2.json"
                   }
               },
-              "target": "https://jechri.github.io/iiif-multispectral-composition/canvas/p1"
+              "on": "https://jechri.github.io/iiif-multispectral-composition/canvas/p1"
             },
             {
-              "id": "https://jechri.github.io/iiif-multispectral-composition/annotation/p0003-image",
-              "type": "Annotation",
-              "motivation": "painting",
-              "body": {
+              "@id": "https://jechri.github.io/iiif-multispectral-composition/annotation/p0003-image",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "label": "67r. [02.wl.a000] UV fluorescence",
                 "id": "https://digi.vatlib.it/iiifimage/MSS_Vat.gr.14/Vat.gr.14_0145_fa_0067r.%5B02.wl.a000%5D.jp2",
                 "type": "Image",
                 "format": "image/jp2",
                 "height": 3842,
                 "width": 5292,
-                "label": {
-                  "en": ["67r. [02.wl.a000] UV fluorescence"]
-                },
                 "service":
                   {
                     "@context": "http://iiif.io/api/image/2/context.json",
@@ -92,7 +77,7 @@
                     "profile": "http://iiif.io/api/image/2/level2.json"
                   }
               },
-              "target": "https://jechri.github.io/iiif-multispectral-composition/canvas/p1"
+              "on": "https://jechri.github.io/iiif-multispectral-composition/canvas/p1"
             }
           ]
         }
