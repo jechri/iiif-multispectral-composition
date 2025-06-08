@@ -23,7 +23,7 @@
               "resource": {
                 "label": "66v-67r. full colour",
                 "@id": "https://digi.vatlib.it/pub/digit/MSS_Vat.gr.14/iiif/Vat.gr.14_0143_fa_0066v-67r.jp2",
-                "@type": "dctypes:Image,
+                "@type": "dctypes:Image",
                 "format": "image/jp2",
                 "height": 7310,
                 "width": 5535,
@@ -43,7 +43,7 @@
               "resource": {
                "label": "66v-67r. \u005b02.wl.0000\u005d UV fluorescence",
                 "@id": "https://digi.vatlib.it/pub/digit/MSS_Vat.gr.14/iiif/Vat.gr.14_0144_fa_0066v-67r.%5B02.wl.0000%5D.jp2",
-                "@type": "dctypes:Image,
+                "@type": "dctypes:Image",
                 "format": "image/jp2",
                 "height": 7310,
                 "width": 5535,
@@ -63,7 +63,7 @@
               "resource": {
                 "label": "67r. \u005b02.wl.a000\u005d UV fluorescence",
                 "@id": "https://digi.vatlib.it/iiifimage/MSS_Vat.gr.14/Vat.gr.14_0145_fa_0067r.%5B02.wl.a000%5D.jp2",
-                "@type": "dctypes:Image,
+                "@type": "dctypes:Image",
                 "format": "image/jp2",
                 "height": 3842,
                 "width": 5292,
