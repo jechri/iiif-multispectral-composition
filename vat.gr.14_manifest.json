@@ -47,7 +47,7 @@
                   }
                 ]
               },
-              "target": "https://jechri.github.io/iiif-multispectral-composition/canvas/p1#xywh=0,0,5535,3842"
+              "target": "https://jechri.github.io/iiif-multispectral-composition/canvas/p1"
             },
             {
               "id": "https://jechri.github.io/iiif-multispectral-composition/annotation/p0002-image",
@@ -67,11 +67,11 @@
                     "@context": "http://iiif.io/api/image/2/context.json",
                     "@id": "https://digi.vatlib.it/pub/digit/MSS_Vat.gr.14/iiif/Vat.gr.14_0144_fa_0066v-67r.%5B02.wl.0000%5D.jp2",
                     "type": "ImageService2",
-                    "profile": "https://digi.vatlib.it/iiifimage/MSS_Vat.gr.14/res/img0145/info.json"
+                    "profile": "http://iiif.io/api/image/2/level2.json"
                   }
                 ]
               },
-              "target": "https://jechri.github.io/iiif-multispectral-composition/canvas/p1#xywh=0,0,5535,3842"
+              "target": "https://jechri.github.io/iiif-multispectral-composition/canvas/p1"
             },
             {
               "id": "https://jechri.github.io/iiif-multispectral-composition/annotation/p0003-image",
@@ -91,11 +91,11 @@
                     "@context": "http://iiif.io/api/image/2/context.json",
                     "@id": "https://digi.vatlib.it/iiifimage/MSS_Vat.gr.14/Vat.gr.14_0145_fa_0067r.%5B02.wl.a000%5D.jp2",
                     "type": "ImageService2",
-                    "profile": "https://digi.vatlib.it/iiifimage/MSS_Vat.gr.14/res/img0145/info.json"
+                    "profile": "http://iiif.io/api/image/2/level2.json"
                   }
                 ]
               },
-              "target": "https://jechri.github.io/iiif-multispectral-composition/canvas/p1#xywh=2767.5,0,2646,3842"
+              "target": "https://jechri.github.io/iiif-multispectral-composition/canvas/p1"
             }
           ]
         }
