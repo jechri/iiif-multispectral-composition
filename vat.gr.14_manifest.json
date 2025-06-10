@@ -13,7 +13,7 @@
         {
           "@id": "https://jechri.github.io/iiif-multispectral-composition/canvas/p1",
           "@type": "sc:Canvas",
-          "label": "63v-64r.",
+          "label": "66v-67r.",
           "height": 7310,
           "width": 5535,
           "images": [
@@ -21,6 +21,7 @@
               "@id": "https://jechri.github.io/iiif-multispectral-composition/annotation/p0001-image",
               "@type": "oa:Annotation",
               "motivation": "sc:painting",
+              "on": "https://jechri.github.io/iiif-multispectral-composition/canvas/p1",
               "resource": {
                 "@type": "oa:Choice",
                 "default": {
@@ -34,7 +35,8 @@
                     "@context": "http://iiif.io/api/image/2/context.json",
                     "@id": "https://digi.vatlib.it/iiifimage/MSS_Vat.gr.14/Vat.gr.14_0143_fa_0066v-67r.jp2",
                     "profile": "http://iiif.io/api/image/2/level2.json"
-                  }
+                  },
+                  "on": "https://jechri.github.io/iiif-multispectral-composition/canvas/p1"
                 },
                 "item": [
                   {
@@ -48,11 +50,25 @@
                       "@context": "http://iiif.io/api/image/2/context.json",
                       "@id": "https://digi.vatlib.it/iiifimage/MSS_Vat.gr.14/Vat.gr.14_0144_fa_0066v-67r.%5B02.wl.0000%5D.jp2",
                       "profile": "http://iiif.io/api/image/2/level2.json"
-                    }
+                    },
+                    "on": "https://jechri.github.io/iiif-multispectral-composition/canvas/p1"
+                  },
+                  {
+                    "label": "66r. [02.wl.a000] UV fluorescence",
+                    "@id": "https://digi.vatlib.it/iiifimage/MSS_Vat.gr.14/Vat.gr.14_0145_fa_0067r.%5B02.wl.a000%5D.jp2/full/full/0/default.jpg",
+                    "@type": "dctypes:Image",
+                    "format": "image/jpeg",
+                    "height": 7310,
+                    "width": 5535,
+                    "service": {
+                      "@context": "http://iiif.io/api/image/2/context.json",
+                      "@id": "https://digi.vatlib.it/iiifimage/MSS_Vat.gr.14/Vat.gr.14_0145_fa_0067r.%5B02.wl.a000%5D.jp2",
+                      "profile": "http://iiif.io/api/image/2/level2.json"
+                    },
+                    "on": "https://jechri.github.io/iiif-multispectral-composition/canvas/p1#xywh=3293,0,4017,5530"
                   }
                 ]
-              },
-              "on": "https://jechri.github.io/iiif-multispectral-composition/canvas/p1"
+              }
             }
           ]
         }
