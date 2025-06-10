@@ -24,29 +24,29 @@
               "resource": {
                 "@type": "oa:Choice",
                 "default": {
-                  "label": "63v-64r. full colour",
-                  "@id": "https://digi.vatlib.it/iiifimage/MSS_Vat.gr.14/Vat.gr.14_0137_fa_0063v-64r.jp2/full/full/0/default.jpg",
+                  "label": "66v-67r. full colour",
+                  "@id": "https://digi.vatlib.it/iiifimage/MSS_Vat.gr.14/Vat.gr.14_0143_fa_0066v-67r.jp2/full/full/0/default.jpg",
                   "@type": "dctypes:Image",
                   "format": "image/jpeg",
                   "height": 7310,
                   "width": 5535,
                   "service": {
                     "@context": "http://iiif.io/api/image/2/context.json",
-                    "@id": "https://digi.vatlib.it/iiifimage/MSS_Vat.gr.14/Vat.gr.14_0137_fa_0063v-64r.jp2",
+                    "@id": "https://digi.vatlib.it/iiifimage/MSS_Vat.gr.14/Vat.gr.14_0143_fa_0066v-67r.jp2",
                     "profile": "http://iiif.io/api/image/2/level2.json"
                   }
                 },
                 "item": [
                   {
-                    "label": "63v-64r. [02.wl.0000] UV fluorescence",
-                    "@id": "https://digi.vatlib.it/iiifimage/MSS_Vat.gr.14/Vat.gr.14_0138_fa_0063v-64r.%5B02.wl.0000%5D.jp2/full/full/0/default.jpg",
+                    "label": "66v-67r. [02.wl.0000] UV fluorescence",
+                    "@id": "https://digi.vatlib.it/iiifimage/MSS_Vat.gr.14/Vat.gr.14_0144_fa_0066v-67r.%5B02.wl.0000%5D.jp2/full/full/0/default.jpg",
                     "@type": "dctypes:Image",
                     "format": "image/jpeg",
                     "height": 7310,
                     "width": 5535,
                     "service": {
                       "@context": "http://iiif.io/api/image/2/context.json",
-                      "@id": "https://digi.vatlib.it/iiifimage/MSS_Vat.gr.14/Vat.gr.14_0138_fa_0063v-64r.%5B02.wl.0000%5D.jp2",
+                      "@id": "https://digi.vatlib.it/iiifimage/MSS_Vat.gr.14/Vat.gr.14_0144_fa_0066v-67r.%5B02.wl.0000%5D.jp2",
                       "profile": "http://iiif.io/api/image/2/level2.json"
                     }
                   }
