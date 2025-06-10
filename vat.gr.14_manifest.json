@@ -21,7 +21,6 @@
               "@id": "https://jechri.github.io/iiif-multispectral-composition/annotation/p0001-image",
               "@type": "oa:Annotation",
               "motivation": "sc:painting",
-              "on": "https://jechri.github.io/iiif-multispectral-composition/canvas/p1",
               "resource": {
                 "@type": "oa:Choice",
                 "default": {
