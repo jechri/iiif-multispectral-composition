@@ -14,8 +14,8 @@
           "@id": "https://jechri.github.io/iiif-multispectral-composition/canvas/p1",
           "@type": "sc:Canvas",
           "label": "66v-67r.",
-          "height": 7310,
-          "width": 5535,
+          "width": 7310,
+          "height": 5535,
           "images": [
             {
               "@id": "https://jechri.github.io/iiif-multispectral-composition/annotation/p0001-image",
