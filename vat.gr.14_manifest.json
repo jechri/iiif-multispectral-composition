@@ -44,8 +44,8 @@
                     "@id": "https://digi.vatlib.it/iiifimage/MSS_Vat.gr.14/Vat.gr.14_0144_fa_0066v-67r.%5B02.wl.0000%5D.jp2/full/full/0/default.jpg",
                     "@type": "dctypes:Image",
                     "format": "image/jpeg",
-                    "height": 5292,
-                    "width": 3842,
+                    "height": 7310,
+                    "width": 5535,
                     "service": {
                       "@context": "http://iiif.io/api/image/2/context.json",
                       "@id": "https://digi.vatlib.it/iiifimage/MSS_Vat.gr.14/Vat.gr.14_0144_fa_0066v-67r.%5B02.wl.0000%5D.jp2",
@@ -58,8 +58,8 @@
                     "@id": "https://digi.vatlib.it/iiifimage/MSS_Vat.gr.14/Vat.gr.14_0145_fa_0067r.%5B02.wl.a000%5D.jp2/full/full/0/default.jpg",
                     "@type": "dctypes:Image",
                     "format": "image/jpeg",
-                    "height": 7310,
-                    "width": 5535,
+                    "height": 5292,
+                    "width": 3842,
                     "service": {
                       "@context": "http://iiif.io/api/image/2/context.json",
                       "@id": "https://digi.vatlib.it/iiifimage/MSS_Vat.gr.14/Vat.gr.14_0145_fa_0067r.%5B02.wl.a000%5D.jp2",
