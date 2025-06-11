@@ -21,8 +21,9 @@
               "@id": "https://jechri.github.io/iiif-multispectral-composition/annotation/p0001-full-colour",
               "@type": "oa:Annotation",
               "motivation": "sc:painting",
-              "on": "https://jechri.github.io/iiif-multispectral-composition/canvas/p1",
+              "on": "https://jechri.github.io/iiif-multispectral-composition/canvas/p1/xywh=0,0,7310,5535",
               "resource": {
+                "label": "66v-67r.",
                 "@id": "https://digi.vatlib.it/iiifimage/MSS_Vat.gr.14/Vat.gr.14_0143_fa_0066v-67r.jp2/full/full/0/default.jpg",
                 "@type": "dctypes:Image",
                 "format": "image/jpeg",
@@ -39,8 +40,9 @@
               "@id": "https://jechri.github.io/iiif-multispectral-composition/annotation/p0001-uv-full",
               "@type": "oa:Annotation",
               "motivation": "sc:painting",
-              "on": "https://jechri.github.io/iiif-multispectral-composition/canvas/p1",
+              "on": "https://jechri.github.io/iiif-multispectral-composition/canvas/p1/xywh=0,0,7310,5535",
               "resource": {
+                "label": "66v-67r. full colour",
                 "@id": "https://digi.vatlib.it/iiifimage/MSS_Vat.gr.14/Vat.gr.14_0144_fa_0066v-67r.%5B02.wl.0000%5D.jp2/full/full/0/default.jpg",
                 "@type": "dctypes:Image",
                 "format": "image/jpeg",
@@ -59,6 +61,7 @@
               "motivation": "sc:painting",
               "on": "https://jechri.github.io/iiif-multispectral-composition/canvas/p1#xywh=3655,1440,3655,2654",
               "resource": {
+                "label": "66v-67r. [02.wl.a000] UV fluorescence",
                 "@id": "https://digi.vatlib.it/iiifimage/MSS_Vat.gr.14/Vat.gr.14_0145_fa_0067r.%5B02.wl.a000%5D.jp2/full/full/0/default.jpg",
                 "@type": "dctypes:Image",
                 "format": "image/jpeg",
