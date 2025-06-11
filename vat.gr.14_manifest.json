@@ -64,7 +64,7 @@
                       "@id": "https://digi.vatlib.it/iiifimage/MSS_Vat.gr.14/Vat.gr.14_0145_fa_0067r.%5B02.wl.a000%5D.jp2",
                       "profile": "http://iiif.io/api/image/2/level2.json"
                     },
-                    "on": "https://jechri.github.io/iiif-multispectral-composition/canvas/p1#xywh=3621,0,4017,5535"
+                    "on": "https://jechri.github.io/iiif-multispectral-composition/canvas/p1#xywh=3655,1440,3655,2654"
                   }
                 ]
               }
