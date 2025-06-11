@@ -18,55 +18,57 @@
           "height": 5535,
           "images": [
             {
-              "@id": "https://jechri.github.io/iiif-multispectral-composition/annotation/p0001-image",
+              "@id": "https://jechri.github.io/iiif-multispectral-composition/annotation/p0001-full-colour",
               "@type": "oa:Annotation",
               "motivation": "sc:painting",
+              "on": "https://jechri.github.io/iiif-multispectral-composition/canvas/p1",
               "resource": {
-                "@type": "oa:Choice",
-                "default": {
-                  "label": "66v-67r. full colour",
-                  "@id": "https://digi.vatlib.it/iiifimage/MSS_Vat.gr.14/Vat.gr.14_0143_fa_0066v-67r.jp2/full/full/0/default.jpg",
-                  "@type": "dctypes:Image",
-                  "format": "image/jpeg",
-                  "width": 7310,
-                  "height": 5535,
-                  "service": {
-                    "@context": "http://iiif.io/api/image/2/context.json",
-                    "@id": "https://digi.vatlib.it/iiifimage/MSS_Vat.gr.14/Vat.gr.14_0143_fa_0066v-67r.jp2",
-                    "profile": "http://iiif.io/api/image/2/level2.json"
-                  },
-                  "on": "https://jechri.github.io/iiif-multispectral-composition/canvas/p1"
-                },
-                "item": [
-                  {
-                    "label": "66v-67r. [02.wl.0000] UV fluorescence",
-                    "@id": "https://digi.vatlib.it/iiifimage/MSS_Vat.gr.14/Vat.gr.14_0144_fa_0066v-67r.%5B02.wl.0000%5D.jp2/full/full/0/default.jpg",
-                    "@type": "dctypes:Image",
-                    "format": "image/jpeg",
-                    "width": 7310,
-                    "height": 5535,
-                    "service": {
-                      "@context": "http://iiif.io/api/image/2/context.json",
-                      "@id": "https://digi.vatlib.it/iiifimage/MSS_Vat.gr.14/Vat.gr.14_0144_fa_0066v-67r.%5B02.wl.0000%5D.jp2",
-                      "profile": "http://iiif.io/api/image/2/level2.json"
-                    },
-                    "on": "https://jechri.github.io/iiif-multispectral-composition/canvas/p1"
-                  },
-                  {
-                    "label": "66r. [02.wl.a000] UV fluorescence",
-                    "@id": "https://digi.vatlib.it/iiifimage/MSS_Vat.gr.14/Vat.gr.14_0145_fa_0067r.%5B02.wl.a000%5D.jp2/full/full/0/default.jpg",
-                    "@type": "dctypes:Image",
-                    "format": "image/jpeg",
-                    "width": 5292,
-                    "height": 3842,
-                    "service": {
-                      "@context": "http://iiif.io/api/image/2/context.json",
-                      "@id": "https://digi.vatlib.it/iiifimage/MSS_Vat.gr.14/Vat.gr.14_0145_fa_0067r.%5B02.wl.a000%5D.jp2",
-                      "profile": "http://iiif.io/api/image/2/level2.json"
-                    },
-                    "on": "https://jechri.github.io/iiif-multispectral-composition/canvas/p1#xywh=3655,1440,3655,2654"
-                  }
-                ]
+                "@id": "https://digi.vatlib.it/iiifimage/MSS_Vat.gr.14/Vat.gr.14_0143_fa_0066v-67r.jp2/full/full/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "width": 7310,
+                "height": 5535,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://digi.vatlib.it/iiifimage/MSS_Vat.gr.14/Vat.gr.14_0143_fa_0066v-67r.jp2",
+                  "profile": "http://iiif.io/api/image/2/level2.json"
+                }
+              }
+            },
+            {
+              "@id": "https://jechri.github.io/iiif-multispectral-composition/annotation/p0001-uv-full",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "on": "https://jechri.github.io/iiif-multispectral-composition/canvas/p1",
+              "resource": {
+                "@id": "https://digi.vatlib.it/iiifimage/MSS_Vat.gr.14/Vat.gr.14_0144_fa_0066v-67r.%5B02.wl.0000%5D.jp2/full/full/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "width": 7310,
+                "height": 5535,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://digi.vatlib.it/iiifimage/MSS_Vat.gr.14/Vat.gr.14_0144_fa_0066v-67r.%5B02.wl.0000%5D.jp2",
+                  "profile": "http://iiif.io/api/image/2/level2.json"
+                }
+              }
+            },
+            {
+              "@id": "https://jechri.github.io/iiif-multispectral-composition/annotation/p0001-uv-67r",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "on": "https://jechri.github.io/iiif-multispectral-composition/canvas/p1#xywh=3655,1440,3655,2654",
+              "resource": {
+                "@id": "https://digi.vatlib.it/iiifimage/MSS_Vat.gr.14/Vat.gr.14_0145_fa_0067r.%5B02.wl.a000%5D.jp2/full/full/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "width": 5292,
+                "height": 3842,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://digi.vatlib.it/iiifimage/MSS_Vat.gr.14/Vat.gr.14_0145_fa_0067r.%5B02.wl.a000%5D.jp2",
+                  "profile": "http://iiif.io/api/image/2/level2.json"
+                }
               }
             }
           ]
